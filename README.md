@@ -9,8 +9,8 @@ To analyze customer profiles and come up with a customer retention strategy.
 
 ### Data Description:
 'Churn' — the fact of churn for the month in question<br>
-Current dataset fields:<br>
-User data for the preceding month<br>
+#### Current dataset fields
+#### User data for the preceding month
 'gender'<br>
 'Near_Location' — whether the user lives or works in the neighborhood where the gym is located<br>
 'Partner' — whether the user is an employee of a partner company (the gym has partner companies whose employees get discounts; in those cases the gym stores information on customers' employers)<br>
@@ -18,7 +18,7 @@ Promo_friends — whether the user originally signed up through a "bring a frien
 'Phone' — whether the user provided their phone number<br>
 'Age'<br>
 'Lifetime' — the time (in months) since the customer first came to the gym<br>
-Data from the log of visits and purchases and data on current membership status<br>
+#### Data from the log of visits and purchases and data on current membership status
 'Contract_period' — 1 month, 3 months, 6 months, or 1 year<br>
 'Month_to_end_contract' — the months remaining until the contract expires<br>
 'Group_visits' — whether the user takes part in group sessions<br>
@@ -33,7 +33,7 @@ Data from the log of visits and purchases and data on current membership status<
     <ol>
         <li>Find mean and std of all features.</li>
         <li>Find mean and std of all features grouped by churn value.</li>
-        <li>PLot feature distribution and correlation.</li>
+        <li>Plot feature distribution and correlation.</li>
     </ol>
   <li>Build a Binary classification model (Logistic Regression and Random Forest).</li>
     <ol>
@@ -44,6 +44,6 @@ Data from the log of visits and purchases and data on current membership status<
     <ol>
         <li>Plot a dendrogram.</li>
         <li>Train and test the clustering model.</li>
-        <li>PLot feature distribution by clusters.</li>
+        <li>Plot feature distribution by clusters.</li>
     </ol>
 </ol>
