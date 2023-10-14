@@ -47,3 +47,20 @@ Promo_friends — whether the user originally signed up through a "bring a frien
         <li>Plot feature distribution by clusters.</li>
     </ol>
 </ol>
+
+### Examples of graphs:
+
+![image](https://github.com/gzhuldas/Training_Machine_learning_project/assets/72769986/25bbb996-8837-4224-ae17-528c2ca2aea0)
+
+
+![image](https://github.com/gzhuldas/Training_Machine_learning_project/assets/72769986/b6097564-f0d1-4852-9f76-70d8a5f4d7f1)
+
+
+![image](https://github.com/gzhuldas/Training_Machine_learning_project/assets/72769986/464c2e87-738a-4080-acb5-5e919143ed74)
+
+
+### Conclusion:
+Churn groups have similarities:Most users leave their phone numbers. People live near the gym and there are almost the same number of men and women. Clients who stay buy more additional stuff, usually have a longer contract period, prefer to attend the gym with partners 2 times a week on average. 60% of clients who stop attending classes are single, whereas only 45% of clients who stay indicated that they are single.<br>The clusters definitely differ in terms of churn rate. The 1, 4, 2 clusters are at the highest risk of leaving the classes, whereas 0, 1 are ~98% and ~91% likely to stay, respectively. The 0 cluster has the lowest churn rate, clients from this cluster are likely to attend the gym with their partners, they prefer group visits more than other and sign up for the longest contract period. All clusters have approximately the same mean age. The 1st and 4th clusters have the highest churn rate, clients from these groups are not likely to bring their partners, they spend less hours at gym per week and sign up for the shortest contract period.<br>A portrait of a loyal customer - he/she has a partner and wants to attend the gym with a partner or train in groups, is around 30 years old, lives nearby, signs up for a long period, is interested in sport products and attends the gym consistently 3-4 times a week. Based on that marketers should focus their attention on creating a family friendly atmosphere, maybe offer a deal for people who have kids as the target audience is 28+ couples.<br>As was said above an important observation from the analysis is that people who do not stop gym classes usually go there with partners or attend group sessions. On contrary, people who are most likely to discontinue the sessions do not attend group trainings and come alone. This may mean that other people (partners/personal trainers/groupmates) motivate a client to stay. So one recommendation for the gym is to offer loners to attend group trainings or come with a friend or a partner.
+
+
+
